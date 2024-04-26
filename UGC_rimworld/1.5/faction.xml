@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <FactionDef ParentName="OutlanderRoughBase">
+    <defName>UGCCorpoBase</defName>
+    <label>U.G.C. Corporate Base</label>
+    <description>A corporate base established by a dystopian megacorporation from the galactic core.</description>
+    <colorSpectrum>
+      <li>(75, 0, 130)</li>
+      <li>(147, 112, 219)</li>
+    </colorSpectrum>
+    <maxConfigurableAtWorldCreation>5</maxConfigurableAtWorldCreation>
+    <configurationListOrderPriority>50</configurationListOrderPriority>
+    <factionIconPath>UGCLogo</factionIconPath>
+    <xenotypeSet Inherit="False">
+      <xenotypeChances>
+        <XenotypeDefName>999</XenotypeDefName>
+      </xenotypeChances>
+    </xenotypeSet>
+  </FactionDef>
+
+</Defs>

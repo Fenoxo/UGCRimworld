@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <packageId>Fenoxo.UnitedGalacticConfederacyRimworldEdition</packageId>
+  <name>United Galactic Confederacy - Rimworld Edition</name>
+  <author>Fenoxo Fenfen</author>
+  <modIconPath IgnoreIfNoMatchingField="True">UGCLogo</modIconPath>
+  <url>na</url>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <description>
+United Galactic Confederacy - Rimworld Edition
+
+Fresh from a bevy of trials in the galaxy's most tainted space comes the Rimworld-friendly incarnation of the United Galactic Confederacy! This loose conglomerate of various human and alien xenotypes expands its territory in a once every 200 year event called the Planet Rush! Now with this mod, they have arrived at your home on the rim.
+
+Factions:
+-Corportate UGC - hostile and greedy.
+-Rusher UGC - generally friendly.
+
+Xenotypes Added:
+-WIP - Ausar (canine), Kaithrit (feline), Slyveren (Reptilian), 
+	</description>
+</ModMetaData>
